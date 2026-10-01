@@ -44,11 +44,13 @@ I am a **Systems and Computer Science Engineer** passionate about technology and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -66,6 +68,7 @@ I am a **Systems and Computer Science Engineer** passionate about technology and
 **Cloud, DevOps & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,7 +78,7 @@ I am a **Systems and Computer Science Engineer** passionate about technology and
 
 ---
 
-## Contribución destacada · Notable Contribution
+## Contribuciones destacadas · Notable Contributions
 
 ### PEMTREE — planificación inteligente del pensum universitario
 
@@ -102,6 +105,16 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 
 </div>
 
+### Otras colaboraciones · Other collaborations
+
+| Proyecto | Descripción | Aporte | Stack |
+|---|---|---|---|
+| [**TODOMIGOBGT**](https://github.com/Trebol4Devop/todomigobgt) | Plataforma cívica omnicanal que democratiza el acceso a la información pública, convocatorias y trámites en Guatemala mediante IA y edge computing | Contribuidor (11 commits) | TypeScript · Astro · Python · Docker · Cloudflare |
+| [**SAMNU**](https://github.com/Trebol4Devop/SAMNU) | Herramienta matemática multiplataforma para la resolución de cálculos numéricos avanzados, con asistente de creación de PDFs | Desarrollo de la aplicación (Flutter / Dart) | Flutter · Dart |
+| [**Comunidad USAC**](https://github.com/Trebol4Devop/Comunidad_USAC) | Espacio de la comunidad universitaria: foro anónimo, grupos estudiantiles y marketplace | Colaborador | Markdown · JavaScript |
+
+Todas forman parte del ecosistema de la organización **[Trebol4Devop](https://github.com/Trebol4Devop)**, junto con SAMNU Web, Políticas de Privacidad y cartesian-plane-library.
+
 ---
 
 ## GitHub Stats
@@ -124,6 +137,8 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**PEMTREE**](https://pemtree.netlify.app/) | Plataforma de pensum optimizado para la Facultad de Ingeniería de la USAC · mayor contribuidor | React · Vite · Tailwind · Supabase |
+| [**TODOMIGOBGT**](https://github.com/Trebol4Devop/todomigobgt) | Plataforma cívica de Guatemala: información pública y trámites con IA y edge computing | TypeScript · Astro · Python · Cloudflare |
+| [**SAMNU**](https://github.com/Trebol4Devop/SAMNU) | Herramienta matemática multiplataforma con generación de PDFs | Flutter · Dart |
 | [**Portfolio**](https://carlosdelcid05.github.io/) | Sitio personal: sobre mí, skills, proyectos y contacto | HTML · CSS · JavaScript |
 | [**Code Analyzer**](https://carlosdelcid05.github.io/analizador.html) | Analizador con compilador local, tabla de símbolos y visualización de AST | JavaScript · Jison |
 | [**rust-projects**](https://github.com/Carlosdelcid05/rust-projects) | Aprendizaje de Rust: Conway, Galaga y menú en terminal | Rust |
