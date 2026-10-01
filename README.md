@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Carlos del Cid / Hi, I'm Carlos del Cid
+# Hola, soy Carlos del Cid / Hi, I'm Carlos del Cid
 
 **Ingeniero en Sistemas y Ciencias de la Computación · Systems and Computer Science Engineer**
 
@@ -12,29 +12,29 @@
 
 ---
 
-## 🇪🇸 Sobre mí
+## Sobre mí
 
 Soy **Ingeniero en Sistemas y Ciencias de la Computación** apasionado por la tecnología y la innovación. Trabajo en desarrollo de software, bases de datos y sistemas de información, construyendo soluciones eficientes y escalables para problemas complejos.
 
-- 🔭 Profundizando en **Rust** y **desarrollo backend**
-- 💡 Interesado en **IoT, cloud y automatización**
-- 🧠 Fundamentos sólidos: algoritmos, estructuras de datos, sistemas operativos
-- 🤝 Abierto a colaborar en proyectos open source
-- ⚡ El detalle y el código limpio por encima de todo
+- Profundizando en **Rust** y **desarrollo backend**
+- Interesado en **IoT, cloud y automatización**
+- Fundamentos sólidos: algoritmos, estructuras de datos, sistemas operativos
+- Abierto a colaborar en proyectos open source
+- El detalle y el código limpio por encima de todo
 
-## 🇬🇧 About me
+## About me
 
 I am a **Systems and Computer Science Engineer** passionate about technology and innovation. I work on software development, databases and information systems, building efficient and scalable solutions to complex problems.
 
-- 🔭 Going deeper into **Rust** and **backend development**
-- 💡 Interested in **IoT, cloud and automation**
-- 🧠 Strong foundations: algorithms, data structures, operating systems
-- 🤝 Open to collaborating on open source
-- ⚡ Attention to detail and clean code above all
+- Going deeper into **Rust** and **backend development**
+- Interested in **IoT, cloud and automation**
+- Strong foundations: algorithms, data structures, operating systems
+- Open to collaborating on open source
+- Attention to detail and clean code above all
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -75,24 +75,24 @@ I am a **Systems and Computer Science Engineer** passionate about technology and
 
 ---
 
-## 🌟 Contribución destacada · Notable Contribution
+## Contribución destacada · Notable Contribution
 
-### 🌳 PEMTREE — planificación inteligente del pensum universitario
+### PEMTREE — planificación inteligente del pensum universitario
 
 [![PEMTREE](https://img.shields.io/badge/Live-pemtree.netlify.app-2E7D32?style=for-the-badge&logo=netlify&logoColor=white)](https://pemtree.netlify.app/)
 [![Repo](https://img.shields.io/badge/Repositorio-Trebol4Devop%2FPEMTREE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trebol4Devop/PEMTREE)
 
 **PEMTREE** es una plataforma web que optimiza la planificación del pensum de las carreras de la Facultad de Ingeniería de la **Universidad de San Carlos de Guatemala (USAC)**: rutas críticas, prerrequisitos, secuencia de semestres, horarios y recomendación de cursos.
 
-En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4Devop)** soy el **mayor contribuidor** 🥇
+En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4Devop)** soy el **mayor contribuidor** del proyecto.
 
-- 🥇 **117 contribuciones** — el aporte más alto del proyecto, por encima del resto del equipo
-- 🧩 Desarrollo de módulos del frontend y del flujo principal de la aplicación
-- 🧭 Sistema de recomendación de cursos y rutas críticas del pensum
-- 🔐 Integración de autenticación / SSO con Supabase
-- ⚖️ Normativas y políticas de contenido aptas para AdSense
-- 🛠️ Resolución de incidencias, hotfixes y merges del equipo
-- 🐍 Autor de **PEMTREE_filtro_publi**, microservicio en **Python** para moderar y filtrar publicaciones de la plataforma
+- **117 contribuciones** — el aporte más alto del proyecto, por encima del resto del equipo
+- Desarrollo de módulos del frontend y del flujo principal de la aplicación
+- Sistema de recomendación de cursos y rutas críticas del pensum
+- Integración de autenticación / SSO con Supabase
+- Normativas y políticas de contenido aptas para AdSense
+- Resolución de incidencias, hotfixes y merges del equipo
+- Autor de **PEMTREE_filtro_publi**, microservicio en **Python** para moderar y filtrar publicaciones de la plataforma
 
 **Stack:** React 19 · Vite · TailwindCSS · React Router · Supabase · Netlify
 
@@ -104,7 +104,7 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -119,26 +119,26 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 
 ---
 
-## 🚀 Proyectos destacados / Featured Projects
+## Proyectos destacados / Featured Projects
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🌳 [**PEMTREE**](https://pemtree.netlify.app/) | Plataforma de pensum optimizado para la Facultad de Ingeniería de la USAC · **mayor contribuidor** | React · Vite · Tailwind · Supabase |
-| 🌐 [**Portfolio**](https://carlosdelcid05.github.io/) | Sitio personal: sobre mí, skills, proyectos y contacto | HTML · CSS · JavaScript |
-| 🧩 [**Code Analyzer**](https://carlosdelcid05.github.io/analizador.html) | Analizador con compilador local, tabla de símbolos y visualización de AST | JavaScript · Jison |
-| 🦀 [**rust-projects**](https://github.com/Carlosdelcid05/rust-projects) | Aprendizaje de Rust: Conway, Galaga y menú en terminal | Rust |
+| [**PEMTREE**](https://pemtree.netlify.app/) | Plataforma de pensum optimizado para la Facultad de Ingeniería de la USAC · mayor contribuidor | React · Vite · Tailwind · Supabase |
+| [**Portfolio**](https://carlosdelcid05.github.io/) | Sitio personal: sobre mí, skills, proyectos y contacto | HTML · CSS · JavaScript |
+| [**Code Analyzer**](https://carlosdelcid05.github.io/analizador.html) | Analizador con compilador local, tabla de símbolos y visualización de AST | JavaScript · Jison |
+| [**rust-projects**](https://github.com/Carlosdelcid05/rust-projects) | Aprendizaje de Rust: Conway, Galaga y menú en terminal | Rust |
 
 ---
 
-## 📫 Contacto / Contact
+## Contacto / Contact
 
-- 🌐 **Portfolio:** https://carlosdelcid05.github.io/
-- 💼 **LinkedIn:** [carlos-del-cid](https://www.linkedin.com/in/carlos-del-cid)
-- ✉️ **Email:** carlosdelcid222@proton.me
-- 📍 **Location:** Guatemala
+- Portfolio: https://carlosdelcid05.github.io/
+- LinkedIn: [carlos-del-cid](https://www.linkedin.com/in/carlos-del-cid)
+- Email: carlosdelcid222@proton.me
+- Location: Guatemala
 
 <div align="center">
 
-**Gracias por pasarte · Thanks for stopping by** 🚀
+**Gracias por pasarte · Thanks for stopping by**
 
 </div>
