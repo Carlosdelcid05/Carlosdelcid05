@@ -100,12 +100,6 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 
 **Stack:** React 19 · Vite · TailwindCSS · React Router · Supabase · Netlify
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Trebol4Devop&repo=PEMTREE&theme=tokyonight&hide_border=true&locale=es" alt="PEMTREE" />
-
-</div>
-
 ### Otras colaboraciones · Other collaborations
 
 | Proyecto | Descripción | Aporte | Stack |
@@ -141,9 +135,23 @@ Todas forman parte del ecosistema de la organización **[Trebol4Devop](https://g
 | [**TODOMIGOBGT**](https://github.com/Trebol4Devop/todomigobgt) | Plataforma cívica de Guatemala: información pública y trámites con IA y edge computing | TypeScript · Astro · Python · Cloudflare |
 | [**SAMNU**](https://github.com/Trebol4Devop/SAMNU) | Herramienta matemática multiplataforma con generación de PDFs | Flutter · Dart |
 | [**Comunidad USAC**](https://github.com/Trebol4Devop/Comunidad_USAC) | Comunidad universitaria: foro, grupos estudiantiles y marketplace · base de datos | Flutter · Supabase |
+| [**chatLocal Qt6**](https://github.com/Carlosdelcid05/chatLocalQwen3.5-9b-DeepseekAPI-Qt6) | Widget de escritorio: ejecuta IA local (Qwen3.5-9B) o usa la API de DeepSeek para tareas del PC | Python · Qt6 · QML |
 | [**Portfolio**](https://carlosdelcid05.github.io/) | Sitio personal: sobre mí, skills, proyectos y contacto | HTML · CSS · JavaScript |
 | [**Code Analyzer**](https://carlosdelcid05.github.io/analizador.html) | Analizador con compilador local, tabla de símbolos y visualización de AST | JavaScript · Jison |
 | [**rust-projects**](https://github.com/Carlosdelcid05/rust-projects) | Aprendizaje de Rust: Conway, Galaga y menú en terminal | Rust |
+
+---
+
+## Proyectos académicos / Academic Projects
+
+**Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala (USAC)**
+
+| Curso | Proyectos | Stack |
+|---|---|---|
+| **IPC 1** — Introducción a la Programación y Computación 1 | [Proyecto 1](https://github.com/Carlosdelcid05/IPC1_Proyecto1_202300625) · [Proyecto 2](https://github.com/Carlosdelcid05/IPC1_Proyecto2_202300625) · [Práctica 2](https://github.com/Carlosdelcid05/-IPC1_Practica2_202300625) | Java · JavaScript |
+| **IPC 2** — Introducción a la Programación y Computación 2 | [Proyecto 1](https://github.com/Carlosdelcid05/IPC2_Proyecto1_202300625) · [Proyecto 2](https://github.com/Carlosdelcid05/IPC2_Proyecto2_202300625) · [Proyecto 3](https://github.com/Carlosdelcid05/IPC2_Proyecto3_202300625) · [Práctica 1](https://github.com/Carlosdelcid05/IPC2_Practica1_202300625) | Python |
+| **LFP** — Lenguajes Formales y de Programación | [Proyecto 1](https://github.com/Carlosdelcid05/LFP_S2_2024_Proyecto1_202300625) · [Práctica 1](https://github.com/Carlosdelcid05/LFP_S2_2024_Practica_202300625) | Fortran · Python |
+| **Redes 2** | [Proyecto 1](https://github.com/Carlosdelcid05/REDES2_2S2026_202300625) | Cisco · VLAN · STP · ACL |
 
 ---
 
