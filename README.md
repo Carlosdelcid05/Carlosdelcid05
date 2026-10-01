@@ -60,6 +60,7 @@ I am a **Systems and Computer Science Engineer** passionate about technology and
 **Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -111,7 +112,7 @@ En este proyecto de la organización **[Trebol4Devop](https://github.com/Trebol4
 |---|---|---|---|
 | [**TODOMIGOBGT**](https://github.com/Trebol4Devop/todomigobgt) | Plataforma cívica omnicanal que democratiza el acceso a la información pública, convocatorias y trámites en Guatemala mediante IA y edge computing | Contribuidor (11 commits) | TypeScript · Astro · Python · Docker · Cloudflare |
 | [**SAMNU**](https://github.com/Trebol4Devop/SAMNU) | Herramienta matemática multiplataforma para la resolución de cálculos numéricos avanzados, con asistente de creación de PDFs | Desarrollo de la aplicación (Flutter / Dart) | Flutter · Dart |
-| [**Comunidad USAC**](https://github.com/Trebol4Devop/Comunidad_USAC) | Espacio de la comunidad universitaria: foro anónimo, grupos estudiantiles y marketplace | Colaborador | Markdown · JavaScript |
+| [**Comunidad USAC**](https://github.com/Trebol4Devop/Comunidad_USAC) | Espacio de la comunidad universitaria: foro anónimo, grupos estudiantiles y marketplace | Configuración y modelado de la base de datos (Supabase) | Flutter · Dart · Supabase · SQL |
 
 Todas forman parte del ecosistema de la organización **[Trebol4Devop](https://github.com/Trebol4Devop)**, junto con SAMNU Web, Políticas de Privacidad y cartesian-plane-library.
 
@@ -139,6 +140,7 @@ Todas forman parte del ecosistema de la organización **[Trebol4Devop](https://g
 | [**PEMTREE**](https://pemtree.netlify.app/) | Plataforma de pensum optimizado para la Facultad de Ingeniería de la USAC · mayor contribuidor | React · Vite · Tailwind · Supabase |
 | [**TODOMIGOBGT**](https://github.com/Trebol4Devop/todomigobgt) | Plataforma cívica de Guatemala: información pública y trámites con IA y edge computing | TypeScript · Astro · Python · Cloudflare |
 | [**SAMNU**](https://github.com/Trebol4Devop/SAMNU) | Herramienta matemática multiplataforma con generación de PDFs | Flutter · Dart |
+| [**Comunidad USAC**](https://github.com/Trebol4Devop/Comunidad_USAC) | Comunidad universitaria: foro, grupos estudiantiles y marketplace · base de datos | Flutter · Supabase |
 | [**Portfolio**](https://carlosdelcid05.github.io/) | Sitio personal: sobre mí, skills, proyectos y contacto | HTML · CSS · JavaScript |
 | [**Code Analyzer**](https://carlosdelcid05.github.io/analizador.html) | Analizador con compilador local, tabla de símbolos y visualización de AST | JavaScript · Jison |
 | [**rust-projects**](https://github.com/Carlosdelcid05/rust-projects) | Aprendizaje de Rust: Conway, Galaga y menú en terminal | Rust |
